@@ -57,3 +57,4 @@ Maximum Number of Days in Month are not valid<br/>
  ![alt text](class_diagram.jpg)
  
  # Sequece Diagram:
+ ![alt text](sequence_diagram.jpg)
