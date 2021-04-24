@@ -35,3 +35,21 @@ Day of week : Thursday
 # How To Execute the Program:
 
 This is simple java program and execute using main class. Minimum requiremnt is java 8 version. This program can be execute by running class **DateParser.java**
+
+**valid Date**
+Enter the date to be parse
+16-04-2021 06:07:10 AM
+
+**Output**
+Valid Date : 16th-Apr-Twenty Twenty One
+Valid Time : Six Hours Seven Minutes Ten Seconds - Morning
+Day of week: Friday
+
+**invalid Date**
+Enter the date to be parse
+16-04-2021 06:07:10 AM
+ 
+**Output** 
+Maximum Number of Days in Month are not valid  
+
+
