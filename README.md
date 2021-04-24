@@ -34,3 +34,4 @@ Day of week : Thursday
 
 # How To Execute the Program:
 
+This is simple java program and execute using main class. Minimum requiremnt is java 8 version. This program can be execute by running class **DateParser.java**
